@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Life Coach</string>
+    <string name="accessibility_description">Life Coach: raat ko steps poore na hone par phone lock karta hai (sirf call khuli rehti hai) aur WhatsApp message apne aap send karta hai. Koi data phone se bahar nahi jata.</string>
+</resources>
